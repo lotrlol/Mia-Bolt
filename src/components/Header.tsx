@@ -19,7 +19,7 @@ export function Header() {
             <div className="w-8 h-8 bg-white/10 rounded-lg flex items-center justify-center backdrop-blur-sm">
               <Brain className="h-5 w-5 text-pink-500" />
             </div>
-            <span className="text-2xl font-bold text-white">TEST mia</span>
+            <span className="text-2xl font-bold text-white">TESsT mia</span>
           </div>
           <div className="flex items-center space-x-6">
             <Link to="/about" className="text-white/80 hover:text-white transition-colors">
